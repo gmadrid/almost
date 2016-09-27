@@ -1,0 +1,8 @@
+[package]
+name = "almost"
+version = "0.1.0"
+authors = ["George Madrid <gmadrid@gmail.com>"]
+
+[dependencies]
+file_tools = { path = "../file_tools" }
+image_hash = { path = "../image_hash" }
